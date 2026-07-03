@@ -1,0 +1,15 @@
+numpy
+pandas
+pyarrow
+scikit-learn
+scipy
+joblib
+torch
+transformers
+sentence-transformers
+faiss-cpu
+rank-bm25
+nltk
+regex
+tqdm
+openpyxl

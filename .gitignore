@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Mac/Linux
+.DS_Store
+
+# Outputs
+outputs/*.csv
+outputs/*.xlsx
+outputs/*.parquet
+outputs/*.zip
+
+# Models
+models/*.pth
+models/*.pt
+models/*.bin
+models/*.ckpt
+
+# Embeddings
+embeddings/*.npy
+embeddings/*.pkl
+embeddings/*.faiss
+
+# Kaggle
+kaggle.json
+
+# Logs
+*.log
