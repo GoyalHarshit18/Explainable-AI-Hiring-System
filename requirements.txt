@@ -13,3 +13,4 @@ nltk
 regex
 tqdm
 openpyxl
+pytest
