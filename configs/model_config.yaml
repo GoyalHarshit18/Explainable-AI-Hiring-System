@@ -1,0 +1,39 @@
+# AI Models
+
+embedding:
+
+  model_name: sentence-transformers/all-MiniLM-L6-v2
+
+  embedding_dimension: 384
+
+  normalize_embeddings: true
+
+retrieval:
+
+  semantic_search: faiss
+
+  lexical_search: bm25
+
+  fusion: reciprocal_rank_fusion
+
+feature_engineering:
+
+  use_semantic_alignment: true
+
+  use_career_engine: true
+
+  use_skill_strength: true
+
+  use_resume_quality: true
+
+reasoning:
+
+  dynamic_reason_generation: true
+
+runtime:
+
+  device: cpu
+
+  batch_size: 64
+
+  random_seed: 42

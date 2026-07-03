@@ -1,0 +1,25 @@
+project:
+
+  name: Explainable AI Hiring System
+
+  challenge: Redrob AI Hiring Challenge
+
+  version: 1.0.0
+
+pipeline:
+
+  retrieval_size: 3000
+
+  final_submission_size: 100
+
+output:
+
+  submission_file: outputs/submission.xlsx
+
+  recruiter_report: outputs/recruiter_report.csv
+
+logging:
+
+  verbose: true
+
+  save_logs: true

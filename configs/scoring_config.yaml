@@ -1,0 +1,31 @@
+# Final Ranking Configuration
+
+ranking:
+
+  score_scale:
+    min: 70
+    max: 88
+
+confidence:
+
+  excellent: 85
+
+  good: 80
+
+  average: 75
+
+career_engine:
+
+  experience_bonus: true
+
+  education_bonus: true
+
+  certification_bonus: true
+
+reasoning:
+
+  max_reasons: 2
+
+submission:
+
+  top_candidates: 100
