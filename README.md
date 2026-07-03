@@ -4,13 +4,6 @@
 
 An **Explainable AI-powered recruitment system** that intelligently retrieves, reranks, and explains the most relevant candidates using **Hybrid Retrieval**, **Semantic AI**, and **Career Evidence Modeling**.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
-![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-Embeddings-green?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-red?style=for-the-badge)
-![BM25](https://img.shields.io/badge/BM25-Lexical_Search-orange?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?style=for-the-badge&logo=scikitlearn)
-![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)
-
 </div>
 
 ---
@@ -238,14 +231,6 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
----
-
-# 👨‍💻 Team
-
-**Innovex**
-
-**Team Leader:** Harshit Goyal
 
 ---
 
